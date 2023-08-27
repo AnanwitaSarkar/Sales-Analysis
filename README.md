@@ -18,7 +18,7 @@ This project entails a comprehensive sales analysis for a brick and mortar busin
 
 ## Getting Started
 1. **SQL Analysis:** Navigate to the `sql_analysis` folder to access the SQL scripts detailing data preparation and transformation.
-2. **Power BI Dashboard:** Open the included Power BI file (`Sales_Analysis.pbix`) to explore interactive visualized insights. Utilize slicers for tailored data filtering.
+2. **Power BI Dashboard:** Open the included Power BI file (`sales_analysis.pbix`) to explore interactive visualized insights. Utilize slicers for tailored data filtering.
 
 ## Insights and Impact
 The project culminates in illuminating pivotal sales trends and patterns, furnishing actionable insights essential for informed decision-making within the brick and mortar business domain. The synergistic integration of SQL and Power BI yields a potent tool for driving impactful strategies.
